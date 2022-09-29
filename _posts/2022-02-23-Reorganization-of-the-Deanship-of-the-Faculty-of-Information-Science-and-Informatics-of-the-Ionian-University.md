@@ -1,5 +1,5 @@
 ---
-ref: Reorganization-of-the-Deanship-of-the-Faculty-of-Information-Science-and-Informatics-of-the-Ionian-University
+ref: Reorganization-of-the-Deanship
 title: "2η Ανασυγκρότηση Κοσμητείας Σχολής Επιστήμης της Πληροφορίας και Πληροφορικής του Ιονίου Πανεπιστημίου, ακαδημαϊκού έτους 2021-2022"
 excerpt: "2η Ανασυγκρότηση Κοσμητείας Σχολής Επιστήμης της Πληροφορίας και Πληροφορικής του Ιονίου Πανεπιστημίου, ακαδημαϊκού έτους 2021-2022"
 tags: 
